@@ -1,0 +1,7 @@
+Vercel settings:
+Root Directory: ./
+Framework Preset: Other
+Build Command: leave empty
+Install Command: leave empty
+Output Directory: .
+Keep index.html and styles.css in the repository root.
